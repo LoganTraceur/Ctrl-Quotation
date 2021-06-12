@@ -17,7 +17,7 @@ It uses native window libraries and so should work in almost any program!
 In addition it can pauses any music that is playing. 
 
 # 4. No Installation Required
-Simply download and put the file in your startup folder.
+Simply download the file and double click!
 To make program start with windows press windows+R, Type "Shell:startup", paste the [Ctrl-Q][mylink] in the startup folder that pops up.
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
