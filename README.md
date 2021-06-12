@@ -7,7 +7,7 @@ Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard short
 This means you can read aloud almost any text in windows with ease!
 
 ### Benefits of Text To Speech Read Aloud Software
-- [x] Improve your spelling and grammer by listening to your messages before you send them.
+- [x] Improve your spelling and grammar by listening to your messages before you send them.
 - [x] Multitask by listing to large text in the background.
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
