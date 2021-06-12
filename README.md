@@ -1,9 +1,11 @@
-[mylink]: <https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-8.0-fx.xpi> "Install Nimblex Extended"
+[mylink]: <https://github.com/LoganTraceur/Ctrl-Quotation/blob/main/Ctrl-Quotation%20Read%20Aloud%20Software.exe> "Install Ctrl-Quotation"
 
 # Ctrl-Quotation
 ![BannerImage](Extra/Banner.jpg)
 
 Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
+
+[Click Here to Download Ctrl-Quotation][mylink]
 
 # 1. Keyboard Shortcuts
 Simply press Ctrl+Q to read any selected text aloud. 
@@ -16,6 +18,6 @@ In addition it can pauses any music that is playing.
 
 # 4. No Installation Required
 Simply download and put the file in your startup folder.
-To make program start with windows press windows+R, Type "Shell:startup", paste the utility in the startup folder that pops up.
+To make program start with windows press windows+R, Type "Shell:startup", paste the [Ctrl-Q][mylink] in the startup folder that pops up.
 
 ![YoureWelcome](Extra/YoureWelcome.gif)
