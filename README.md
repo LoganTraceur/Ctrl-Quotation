@@ -5,7 +5,7 @@
 
 Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
 
-[Click Here to Download Ctrl-Quotation][mylink]
+[Click Here to Download Ctrl-Quotation now!][mylink]
 
 # 1. Keyboard Shortcuts
 Simply press Ctrl+Q to read any selected text aloud. 
@@ -19,5 +19,7 @@ In addition it can pauses any music that is playing.
 # 4. No Installation Required
 Simply download and put the file in your startup folder.
 To make program start with windows press windows+R, Type "Shell:startup", paste the [Ctrl-Q][mylink] in the startup folder that pops up.
+
+[Click Here to Download Ctrl-Quotation now!][mylink]
 
 ![YoureWelcome](Extra/YoureWelcome.gif)
