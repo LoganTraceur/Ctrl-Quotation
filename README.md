@@ -30,6 +30,6 @@ If you get a warning that the software publisher is unknown. That's ok, I'm just
 
 To continue just click "More Info" and then "Run Anyway". Enjoy! 
 
-[Click Here to Download Ctrl-Quotation now!][mylink]
+## [Click Here to Download Ctrl-Quotation now!][mylink]
 
 ![YoureWelcome](Extra/YoureWelcome.gif)
