@@ -3,25 +3,26 @@
 # Ctrl-Quotation
 ![Finally, a Lightweight Text To Speech utility for Windows](Extra/Banner.jpg)
 
-[x] Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
-[x] This means you can read aloud almost any text in windows with ease!
+Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
+This means you can read aloud almost any text in windows with ease!
+
+### Benefits of Text To Speech Read Aloud Software
+- [x] Improve your spelling and grammer by listening to your messages before you send them.
+- [x] Multitask by listing to large text in the background.
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
 
-# Benefits of Text To Speech Read Aloud Software
-Improve your spelling and grammer by listening to your messages before you send them.
-Multitask by listing to large text in the background.
-
-# 1. Keyboard Shortcuts
+# Ctrl-Quotation Features
+### 1. Keyboard Shortcuts
 Simply press Ctrl+Q to read any selected text aloud. 
 
-# 2. Works almost anywhere in windows
+### 2. Works almost anywhere in windows
 It uses native window libraries and so should work in almost any program!
 
-# 3. Pauses Music Automatically
+### 3. Pauses Music Automatically
 In addition it can pauses any music that is playing. 
 
-# 4. No Installation Required
+### 4. No Installation Required
 Simply download the file and double click!
 To make program start with windows press Windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
 
