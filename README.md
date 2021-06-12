@@ -20,6 +20,9 @@ In addition it can pauses any music that is playing.
 Simply download the file and double click!
 To make program start with windows press windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
 
+If you get a warning that the software publisher is unknown. Thats ok, I'm just not famous yet ;)
+To continue just click "More Info" and then "Run Anyway". Enjoy! 
+
 [Click Here to Download Ctrl-Quotation now!][mylink]
 
 ![YoureWelcome](Extra/YoureWelcome.gif)
