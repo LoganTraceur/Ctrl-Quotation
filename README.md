@@ -4,6 +4,7 @@
 ![Finally, a Lightweight Text To Speech utility for Windows](Extra/Banner.jpg)
 
 Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
+
 This means you can read aloud almost any text in windows with ease!
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
@@ -22,6 +23,7 @@ Simply download the file and double click!
 To make program start with windows press windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
 
 If you get a warning that the software publisher is unknown. Thats ok, I'm just not famous yet ;)
+
 To continue just click "More Info" and then "Run Anyway". Enjoy! 
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
