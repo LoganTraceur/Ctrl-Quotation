@@ -9,6 +9,10 @@ This means you can read aloud almost any text in windows with ease!
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
 
+# Benefits of Text To Speech Read Aloud Software
+Improve your spelling and grammer by listening to your messages before you send them.
+Multitask by listing to large text in the background.
+
 # 1. Keyboard Shortcuts
 Simply press Ctrl+Q to read any selected text aloud. 
 
@@ -20,7 +24,7 @@ In addition it can pauses any music that is playing.
 
 # 4. No Installation Required
 Simply download the file and double click!
-To make program start with windows press windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
+To make program start with windows press Windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
 
 If you get a warning that the software publisher is unknown. Thats ok, I'm just not famous yet ;)
 
