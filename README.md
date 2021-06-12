@@ -3,9 +3,8 @@
 # Ctrl-Quotation
 ![Finally, a Lightweight Text To Speech utility for Windows](Extra/Banner.jpg)
 
-Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
-
-This means you can read aloud almost any text in windows with ease!
+[x] Ctrl-Quotation is a lightweight Text To Speech (TTS) utility with keyboard shortcuts.
+[x] This means you can read aloud almost any text in windows with ease!
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
 
