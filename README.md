@@ -1,4 +1,4 @@
-[mylink]: <https://github.com/LoganTraceur/Ctrl-Quotation/blob/main/Ctrl-Quotation%20Read%20Aloud%20Software.exe> "Install Ctrl-Quotation"
+[mylink]: <https://github.com/LoganTraceur/Ctrl-Quotation/raw/main/Ctrl-Quotation%20Read%20Aloud%20Software.exe> "Install Ctrl-Quotation"
 
 # Ctrl-Quotation
 ![BannerImage](Extra/Banner.jpg)
