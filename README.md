@@ -35,3 +35,9 @@ To continue just click "More Info" and then "Run Anyway". Enjoy!
 ## [Click Here to Download Ctrl-Quotation now!][mylink]
 
 ![YoureWelcome](Extra/YoureWelcome.gif)
+
+## Acknowledgements
+
+This utility was built using [AutoHotKey](https://www.autohotkey.com/). AutoHotKey is a free and open-source custom scripting language for Microsoft Windows.
+
+The code in this utility was heavily reliant on the AutoHotKey script [Text-To-Speech Examples for AutoHotkey_L by jballi](https://autohotkey.com/board/topic/53429-function-easy-text-to-speech/).
