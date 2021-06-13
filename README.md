@@ -15,6 +15,7 @@ This means you can read aloud almost any text in windows with ease!
 # Ctrl-Quotation Features
 ### 1. Keyboard Shortcuts
 Simply press Ctrl+Q to read any selected text aloud. 
+![Control + Q Keyboard shortcut](Extra/Shortcut.png)
 
 ### 2. Works almost anywhere in windows
 It uses native window libraries and so should work in almost any program!
