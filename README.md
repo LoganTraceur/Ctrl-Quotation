@@ -21,12 +21,12 @@ Simply press Ctrl+Q to read any selected text aloud.
 ### 2. Works almost anywhere in windows
 It uses native window libraries and so should work in almost any program!
 
-### 3. Pauses and Resume Music Automatically
-In addition, it can pauses any music that is playing and resume afterwards. 
+### 3. Pause and Resume Music Automatically
+In addition, it can pause any music that is playing and resume afterwards. 
 
 ### 4. No Installation Required
 Simply download the file and double click!
-To make program start with windows press Windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
+To make the program start with windows press Windows+R, Type "Shell:startup", paste the [Ctrl-Q utility][mylink] in the startup folder that pops up.
 
 If you get a warning that the software publisher is unknown. That's ok, I'm just not famous yet ;)
 
