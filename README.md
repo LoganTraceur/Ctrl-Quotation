@@ -21,8 +21,8 @@ Simply press Ctrl+Q to read any selected text aloud.
 ### 2. Works almost anywhere in windows
 It uses native window libraries and so should work in almost any program!
 
-### 3. Pauses Music Automatically
-In addition, it can pauses any music that is playing. 
+### 3. Pauses and Resume Music Automatically
+In addition, it can pauses any music that is playing and resume afterwards. 
 
 ### 4. No Installation Required
 Simply download the file and double click!
