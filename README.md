@@ -8,7 +8,7 @@ This means you can read aloud almost any text in windows with ease!
 
 ### Benefits of Text To Speech Read Aloud Software
 - [x] Improve your spelling and grammar by listening to your messages before you send them.
-- [x] Multitask by listing to large text in the background.
+- [x] Multitask by listening to large text in the background.
 
 [Click Here to Download Ctrl-Quotation now!][mylink]
 
